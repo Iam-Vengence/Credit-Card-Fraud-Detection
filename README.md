@@ -8,4 +8,3 @@ Due to confidentiality issues, the input variables are transformed into numerica
 
 The dataset is taken from kaggle <a href='https://www.kaggle.com/mlg-ulb/creditcardfraud' target='_blank'>here</a>.
 
-**Note:** I am not including the dataset file in this repository because of its size. You can download it from the aforementioned kaggle link.
